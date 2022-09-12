@@ -1,0 +1,2 @@
+kubeadm join 10.0.0.4:6443 --token talxza.nq77d667h56pqhqu \
+        --discovery-token-ca-cert-hash sha256:80b4f84c168a038c64c19338ea1c8c043f7d91c911e031b6c55be87f2be9cb9f
